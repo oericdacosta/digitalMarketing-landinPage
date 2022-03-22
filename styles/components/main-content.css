@@ -3,3 +3,7 @@
     align-items: center;
     justify-content: space-around;
 }
+
+.main-content .image{
+    width: 40%;
+}
