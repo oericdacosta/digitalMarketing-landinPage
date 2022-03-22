@@ -7,3 +7,7 @@
     background: linear-gradient(90deg, rgb(188, 40, 230), rgb(64, 0, 167));
     cursor: pointer;
 }
+
+.main-button.-width{
+    max-width: 150px;
+}
