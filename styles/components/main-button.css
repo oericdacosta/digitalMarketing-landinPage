@@ -1,0 +1,9 @@
+.main-button{
+    text-transform: uppercase;
+    padding: 1em;
+    border: 0;
+    color: #FFF;
+    background: -webkit-linear-gradient(90deg, rgb(188, 40, 230), rgb(64, 0, 167));
+    background: linear-gradient(90deg, rgb(188, 40, 230), rgb(64, 0, 167));
+    cursor: pointer;
+}
