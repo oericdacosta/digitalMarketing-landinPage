@@ -10,7 +10,7 @@
     padding-bottom: 3em;
     flex-direction: column;
     max-width: 25%;
-    background-color: rgba(253, 191, 215, 0.9);
+    background-color: rgba(253, 191, 215, 1);
 }
 
 .main-article .figure .image{
