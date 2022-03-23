@@ -4,9 +4,11 @@
     align-items: center;
     justify-content: center;
     gap: 2em;
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .main-section .text{
     max-width: 500px;
     text-align: center;
+    color: #030440;
 }
