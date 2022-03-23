@@ -1,0 +1,15 @@
+.main-article, .main-article > .figure{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-article{
+    flex-direction: column;
+    max-width: 33%;
+    background-color: #ccc;
+}
+
+.main-article .figure .image{
+    max-width: 40%;
+}
