@@ -12,10 +12,6 @@
     background-color: rgba(253, 191, 215, 0.3);
 }
 
-.main-article:nth-child(2){
-    background-color: rgba(167, 227, 245, 0.3);
-}
-
 .main-article .figure .image{
     width: 40%;
 }
