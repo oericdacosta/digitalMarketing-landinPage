@@ -11,3 +11,7 @@
 .main-button.-width{
     max-width: 150px;
 }
+
+.main-button.-size{
+    width: 50%;
+}
