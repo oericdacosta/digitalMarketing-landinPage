@@ -16,6 +16,13 @@
     margin-bottom: 0;
 }
 
+.main-section.-position{
+    position: relative;
+    bottom: 13.5em;
+    padding-top: 20em;
+    z-index: 1;
+}
+
 .main-section.-bgc{
     background-color: #030440;
 }
