@@ -8,9 +8,16 @@
     margin-bottom: 6em;
 }
 
-.main-section.-card{
+.main-section.-row{
     flex-direction: row;
+}
+
+.main-section.-noMarginB{
     margin-bottom: 0;
+}
+
+.main-section.-bgc{
+    background-color: #030440;
 }
 
 .main-section .text{
