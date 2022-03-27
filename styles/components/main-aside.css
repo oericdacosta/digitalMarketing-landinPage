@@ -11,3 +11,10 @@
     max-width: 500px;
     color: #030440;
 }
+
+.main-aside .text{
+    text-align: center;
+    font-size: 1.8em;
+    font-family: 'Vidaloka', serif;
+    color: #030440;
+}
