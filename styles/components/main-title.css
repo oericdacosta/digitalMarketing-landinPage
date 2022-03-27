@@ -9,3 +9,17 @@
 .main-title.-color{
     color: #fff;
 }
+
+.main-title.-noDash{
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.main-title.-fontBigger{
+    font-size: 5.4em;
+    max-width: 500px;
+}
+
+.main-title > .colorText{
+    color: #bc28e6;
+}
