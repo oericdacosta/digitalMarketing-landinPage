@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="styles/components/main-subtitle.css">
     <link rel="stylesheet" href="styles/components/items-description.css">
     <link rel="stylesheet" href="styles/components/contact-area.css">
+    <link rel="stylesheet" href="styles/components/main-form.css">
 </head>
 <body>
     
@@ -216,12 +217,14 @@
         </aside>
 
         <form class="main-form">
-            <input type="text">
-            <input type="text">
-            <textarea name="" id="" >
-                           
-            </textarea>
-            <input type="text"></form>
+            <label class="text" for="email">Your Email Adress</label>
+            <input type="email" id="email" placeholder="something@website.com">
+
+            <label for="text" class="text">Your name here</label>
+            <input type="text" id="text" placeholder="First name + Last name">
+            
+            <input type="submit" class="main-button">
+        </form>
     </section>
 
 </body>

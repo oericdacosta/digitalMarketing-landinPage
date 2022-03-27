@@ -1,0 +1,27 @@
+.main-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.main-form .text{
+    align-self: flex-start;
+    cursor: pointer;
+    color: #030440;
+    font-family: 'Vidaloka', serif;
+    font-weight: 600;
+    padding-bottom: 0.5em;
+}
+
+.main-form input{
+    width: 100%;
+    outline: 0;
+    padding-bottom: 1.5em;
+    margin-bottom: 2em;
+}
+
+.main-form input[type="text"], .main-form input[type="email"]{
+    padding-left: 0.5em;
+}
