@@ -1,0 +1,18 @@
+.job-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.job-section:nth-child(2n+1){
+    flex-direction: row-reverse;
+}
+
+.job-section:nth-child(2n+1) .main-aside.-job .text{
+    text-align: right;
+}
+
+.job-section:nth-child(2n+1) .main-aside.-job .description{
+    text-align: right;
+}
