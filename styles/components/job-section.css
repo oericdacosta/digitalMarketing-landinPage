@@ -9,10 +9,18 @@
     flex-direction: row-reverse;
 }
 
-.job-section:nth-child(2n+1) .main-aside.-job .text{
-    text-align: right;
+.job-section:nth-child(2n+1) .items-description .main-subtitle{
+    display: flex;
+    padding-right: 1em;
+    justify-content: flex-end;
 }
 
-.job-section:nth-child(2n+1) .main-aside.-job .description{
+.job-section:nth-child(2n+1) .items-description .wrapper{
+    justify-content: flex-end;
+    padding-right: 1em;
+}
+
+.job-section:nth-child(2n+1) .items-description .text{
     text-align: right;
+    padding-right: 1em;
 }
