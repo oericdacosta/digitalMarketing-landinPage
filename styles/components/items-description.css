@@ -1,0 +1,30 @@
+.items-description{
+    display: block;
+    gap: 0;
+    color: white;
+    align-self: flex-start;
+    padding-left: 1em;
+}
+
+.items-description .wrapper{
+    padding-top: 1em;
+    padding-bottom: 2.5em;
+}
+
+.items-description .description{
+    display: inline-block;
+    text-align: center;
+    font-weight: 100;
+}
+
+.items-description .description:nth-child(2){
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    padding: 0 0.5em;
+}
+
+.items-description .text{
+    color: white;
+    font-weight: 100;
+    text-align: left;
+}
