@@ -1,0 +1,8 @@
+.contact-area{
+    position: relative;
+    top: -13.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
